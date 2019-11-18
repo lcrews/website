@@ -1,0 +1,16 @@
+body{
+	background-color:white;
+	color:gray;
+	background-image: url("background.png");
+	font-family: "Helvetica";
+}
+
+h2{
+	color: maroon;
+	font-family: "Trebuchet";
+	font-size: 30px;
+}
+
+a {
+	color: #37badb
+}
